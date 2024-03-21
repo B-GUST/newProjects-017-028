@@ -1,6 +1,7 @@
 import './userTriggers';
 import "./personTriggers";
 import "./subsidiesTriggers";
-import "./businessActivitiesTrigger";
-import "./laptopDataTriggers";
-import "./tourismExpenditureDataTriggers";
+import "./attitudesTriggers";
+import "./categoryTriggers";
+import "./interestsTriggers";
+import "./trainingTriggers";

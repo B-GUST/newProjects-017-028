@@ -1,0 +1,51 @@
+{
+    "users": {
+      "user_phone": "teléfono_de_contacto",
+      "user_brithdate": "fecha_de_nacimiento",
+      "user_type_user": "si_es_empresa_o_particular",
+      "user_demographics": "edad género ubicación geográfica (pais provincia)"
+    },
+    "person": {
+      "per_user_id": "id_de_usuario",
+      "per_interests": "intereses_del_usuario(formulario preguntas y respuestas)",
+      "per_previous_experience": "Experiencia Prevía en Liderazgo",
+      "per_management_skills": "Conocimientos Directivos"
+    },
+    "attitudes": {
+      "att_person_id": "ID de persona",
+      "att_previous_leadership_experience": "Experiencia Prevía en Liderazgo",
+      "att_communication_skills": "Habilidades de Comunicación (buena, muy buena, regular, baja)",
+      "att_decision_making_ability": "Capacidad para Tomar Decisiones (buena, muy buena, regular, baja)",
+      "att_conflict_management": "Gestión de Conflictos (buena, muy buena, regular, baja)",
+      "att_motivation": "Motivación y Compromiso (buena, muy buena, regular, baja)"
+    },
+    "training": {
+      "tra_category_id": "ID de la categoria",
+      "tra_title": "titulo del entrenamiento",
+      "tra_description": "descripocion del entrenamiento es decir de que va a tratar",
+      "tra_estimated_duration": "tiempo estimado del entremaniento",
+      "tra_difficulty_level": "nivel de dificultad en esta caso debe decir entry, junior, senior por ejemplo",
+      "tra_objectives": "objetivo del entrenamiento que se pretende lograr con el entrenamiento",
+      "tra_prerequisites": "requisitos previos que debe cumplir la persona para cursar el entrenamiento",
+      "tra_date_created": "Fecha de Creación del entrenamiento",
+      "tra_status": "Estado (Disponible/En Progreso/Completado)"
+    },
+    "category": {
+      "name": "nombre de la categoria o cargo",
+      "description": "descricion del cargo"
+    },
+    "interests": {
+      "variable_interest_1": "variable de interes para generar una recomendacion",
+      "variable_interest_2": "variable de interes para generar una recomendacion",
+      "variable_interest_3": "variable de interes para generar una recomendacion",
+      "variable_interest_4": "variable de interes para generar una recomendacion"
+    },
+    "advices": {
+      "adv_person_id": "ID de la persona asociada a la recomendacion",
+      "adv_training_id": "ID del entrenamiento",
+      "adv_interaction_type": "Tipo de interacción (identificar si es por chatbot o recomendacion si aplica)",
+      "adv_timestamp": "Fecha y Hora de Interacción",
+      "adv_recommendations": "resultado de la recomendacion",
+      "adv_user_feedback": "Retroalimentación del usuario sobre la recomendacion"
+    }
+  }

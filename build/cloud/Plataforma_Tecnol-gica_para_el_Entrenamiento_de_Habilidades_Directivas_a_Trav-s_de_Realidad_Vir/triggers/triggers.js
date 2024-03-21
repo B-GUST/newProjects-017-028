@@ -3,7 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 require("./userTriggers");
 require("./personTriggers");
 require("./subsidiesTriggers");
-require("./businessActivitiesTrigger");
-require("./laptopDataTriggers");
-require("./tourismExpenditureDataTriggers");
+require("./attitudesTriggers");
+require("./categoryTriggers");
+require("./interestsTriggers");
+require("./trainingTriggers");
 //# sourceMappingURL=triggers.js.map
