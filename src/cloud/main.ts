@@ -12,7 +12,7 @@ declare const Parse: any;
 // import './sendingEmails';
 // import './followerFollowing';
 // import './exampleCloudsNew/exapleClouds'
-import "../cloud/localizador_inteligente_de_oportunidades_de_negocio/routes/index"
+import "../cloud/Plataforma_Tecnol-gica_para_el_Entrenamiento_de_Habilidades_Directivas_a_Trav-s_de_Realidad_Vir/routes/index"
 import '../masterClouds/routes/index'
 // import "../seeder/routes/index"
 

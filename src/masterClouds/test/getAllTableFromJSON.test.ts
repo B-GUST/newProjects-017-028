@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import request from 'supertest';
 import { app } from '../../index';
-import { loginUser } from '../../cloud/localizador_inteligente_de_oportunidades_de_negocio/Test/utils/loginUser';
+import { loginUser } from '../../cloud/Plataforma_Tecnol-gica_para_el_Entrenamiento_de_Habilidades_Directivas_a_Trav-s_de_Realidad_Vir/Test/utils/loginUser';
 import { cleanTable } from './utils/cleanTable';
 import Parse from 'parse/node';
 describe('Get All Table', () => {

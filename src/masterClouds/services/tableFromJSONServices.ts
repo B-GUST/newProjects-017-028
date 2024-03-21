@@ -11,7 +11,7 @@ import {
   getTableFromJSONByIdData,
   updateTableFromJSONData,
 } from '../database/tableFromJSON';
-import { checkUserRole } from '../../cloud/localizador_inteligente_de_oportunidades_de_negocio/utils/accesControl';
+import { checkUserRole } from '../../cloud/Plataforma_Tecnol-gica_para_el_Entrenamiento_de_Habilidades_Directivas_a_Trav-s_de_Realidad_Vir/utils/accesControl';
 
 export async function getAllTableFromJSONService(page: number, tableName: string, sessionToken: string) {
   try {
