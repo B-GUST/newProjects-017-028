@@ -13,10 +13,7 @@ export const UserSchema = Yup.object()
 
 
     
-    user_type: Yup.string().notRequired().nullable(),
-    user_businessid: Yup.string().notRequired().nullable(),
-    user_businessdocument: Yup.string().notRequired().nullable(),
-    user_namecompany: Yup.string().notRequired().nullable(),
+    user_type_user: Yup.string().notRequired().nullable(),
 
 
 

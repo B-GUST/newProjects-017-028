@@ -8,4 +8,5 @@ export interface ITraining {
   tra_prerequisites: string;
   tra_date_created: string;
   tra_status: string;
+  tra_image: string;
   }

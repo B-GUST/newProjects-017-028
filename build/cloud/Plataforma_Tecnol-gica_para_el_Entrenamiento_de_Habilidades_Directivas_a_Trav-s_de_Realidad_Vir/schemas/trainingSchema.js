@@ -35,5 +35,6 @@ exports.TrainingSchema = Yup.object().shape({
     tra_prerequisites: Yup.string().required('tra_prerequisites is required'),
     tra_date_created: Yup.string().required('tra_date_created is required'),
     tra_status: Yup.string().required('tra_status is required'),
+    tra_image: Yup.string().required('tra_image is required'),
 });
 //# sourceMappingURL=trainingSchema.js.map

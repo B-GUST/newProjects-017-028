@@ -6,10 +6,8 @@ export interface IUser {
     user_interests: UserInterests[];
     user_birthdate: Date;
     user_demographics: UserDemographics;
-    user_type: string;
-    user_businessid: string;
-    user_businessdocument: string;
-    user_namecompany: string;
+    user_type_user: string;
+ 
 
   }
   

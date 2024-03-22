@@ -9,4 +9,6 @@ export const PersonSchema = Yup.object().shape({
     })
     .required('The per_user_id is required'),
   per_interests: Yup.string().required('The per_interests is required'),
+  per_previous_experience: Yup.string().required('The per_interests is required'),
+  per_management_skills: Yup.string().required('The per_interests is required'),
 });
